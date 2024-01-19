@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    background-color: lightblue;
+}
+
+.col.custom-col {
+    max-width: 30%;
+}
+
+#send-ws-button {
+    margin-left: 100px;
+}
+
+.btn {
+    margin-right: 5px;
+}
